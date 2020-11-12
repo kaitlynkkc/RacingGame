@@ -1,7 +1,976 @@
 fileFormatVersion: 2
 guid: b8a6fe0e2ed70c0459474cca9336e0c3
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7740029502072185806
+    second: spritesheet_vehicles_0
+  - first:
+      213: 2662005665279520777
+    second: spritesheet_vehicles_1
+  - first:
+      213: 5288607049019177433
+    second: spritesheet_vehicles_2
+  - first:
+      213: -6347773280283584593
+    second: spritesheet_vehicles_3
+  - first:
+      213: -737585736748780097
+    second: spritesheet_vehicles_4
+  - first:
+      213: -6185163304836262969
+    second: spritesheet_vehicles_5
+  - first:
+      213: -4142349405497612339
+    second: spritesheet_vehicles_6
+  - first:
+      213: -3271213233005181763
+    second: spritesheet_vehicles_7
+  - first:
+      213: 9065714428470231697
+    second: spritesheet_vehicles_8
+  - first:
+      213: 2849639536402221479
+    second: spritesheet_vehicles_9
+  - first:
+      213: -1422039707258656375
+    second: spritesheet_vehicles_10
+  - first:
+      213: 7503400585179315729
+    second: spritesheet_vehicles_11
+  - first:
+      213: 7873338421608003294
+    second: spritesheet_vehicles_12
+  - first:
+      213: -5390196129318919423
+    second: spritesheet_vehicles_13
+  - first:
+      213: 8682354892873156611
+    second: spritesheet_vehicles_14
+  - first:
+      213: -998314102248386350
+    second: spritesheet_vehicles_15
+  - first:
+      213: -50292972043125572
+    second: spritesheet_vehicles_16
+  - first:
+      213: -4504976822293183522
+    second: spritesheet_vehicles_17
+  - first:
+      213: -5324063442875745390
+    second: spritesheet_vehicles_18
+  - first:
+      213: -4887281639001813749
+    second: spritesheet_vehicles_19
+  - first:
+      213: 3583787334907677060
+    second: spritesheet_vehicles_20
+  - first:
+      213: -4225828963551675268
+    second: spritesheet_vehicles_21
+  - first:
+      213: 2427363406532001630
+    second: spritesheet_vehicles_22
+  - first:
+      213: -7062082574155424853
+    second: spritesheet_vehicles_23
+  - first:
+      213: -1080448021908589826
+    second: spritesheet_vehicles_24
+  - first:
+      213: 7290122980147575403
+    second: spritesheet_vehicles_25
+  - first:
+      213: 1032246772801798268
+    second: spritesheet_vehicles_26
+  - first:
+      213: -2278293918339059985
+    second: spritesheet_vehicles_27
+  - first:
+      213: -1014508869428113567
+    second: spritesheet_vehicles_28
+  - first:
+      213: -1958928910310181909
+    second: spritesheet_vehicles_29
+  - first:
+      213: -4253915939516782044
+    second: spritesheet_vehicles_30
+  - first:
+      213: -8405556220701952479
+    second: spritesheet_vehicles_31
+  - first:
+      213: 5980553946206524850
+    second: spritesheet_vehicles_32
+  - first:
+      213: -6226752054697925678
+    second: spritesheet_vehicles_33
+  - first:
+      213: -1664234495526014745
+    second: spritesheet_vehicles_34
+  - first:
+      213: -1693986085376173841
+    second: spritesheet_vehicles_35
+  - first:
+      213: -8464413787479015342
+    second: spritesheet_vehicles_36
+  - first:
+      213: -1186273263687464008
+    second: spritesheet_vehicles_37
+  - first:
+      213: 7229148288195402862
+    second: spritesheet_vehicles_38
+  - first:
+      213: 1991099051732287330
+    second: spritesheet_vehicles_39
+  - first:
+      213: 8009985257659887988
+    second: spritesheet_vehicles_40
+  - first:
+      213: 9082424106065380634
+    second: spritesheet_vehicles_41
+  - first:
+      213: -2008384078797933529
+    second: spritesheet_vehicles_42
+  - first:
+      213: -8732341756011415065
+    second: spritesheet_vehicles_43
+  - first:
+      213: 8689299611217894802
+    second: spritesheet_vehicles_44
+  - first:
+      213: -5092791276629927590
+    second: spritesheet_vehicles_45
+  - first:
+      213: -7841683597123080747
+    second: spritesheet_vehicles_46
+  - first:
+      213: 864906370529916145
+    second: spritesheet_vehicles_47
+  - first:
+      213: -1878076582803506336
+    second: spritesheet_vehicles_48
+  - first:
+      213: 8310643898397461259
+    second: spritesheet_vehicles_49
+  - first:
+      213: -93511933626430510
+    second: spritesheet_vehicles_50
+  - first:
+      213: -5222346645247287400
+    second: spritesheet_vehicles_51
+  - first:
+      213: 201788569045410266
+    second: spritesheet_vehicles_52
+  - first:
+      213: -3844324217912391383
+    second: spritesheet_vehicles_53
+  - first:
+      213: -6976631209640137044
+    second: spritesheet_vehicles_54
+  - first:
+      213: 7968802892025957561
+    second: spritesheet_vehicles_55
+  - first:
+      213: 5622910913096837701
+    second: spritesheet_vehicles_56
+  - first:
+      213: -1038357221385164851
+    second: spritesheet_vehicles_57
+  - first:
+      213: -7246590093595341658
+    second: spritesheet_vehicles_58
+  - first:
+      213: 8304323191174238940
+    second: spritesheet_vehicles_59
+  - first:
+      213: -231896160770371665
+    second: spritesheet_vehicles_60
+  - first:
+      213: 4892023318815396105
+    second: spritesheet_vehicles_61
+  - first:
+      213: -6312610992697187698
+    second: spritesheet_vehicles_62
+  - first:
+      213: 2831490395420353072
+    second: spritesheet_vehicles_63
+  - first:
+      213: 4768687882588191685
+    second: spritesheet_vehicles_64
+  - first:
+      213: -2613750328486344439
+    second: spritesheet_vehicles_65
+  - first:
+      213: -3502870848873826668
+    second: spritesheet_vehicles_66
+  - first:
+      213: 8633758530360847952
+    second: spritesheet_vehicles_67
+  - first:
+      213: -8067072634790404324
+    second: spritesheet_vehicles_68
+  - first:
+      213: 1773969252864286807
+    second: spritesheet_vehicles_69
+  - first:
+      213: 2561551775214488832
+    second: spritesheet_vehicles_70
+  - first:
+      213: -7982016108720766483
+    second: spritesheet_vehicles_71
+  - first:
+      213: -8401513976816855429
+    second: spritesheet_vehicles_72
+  - first:
+      213: -5799500871572582879
+    second: spritesheet_vehicles_73
+  - first:
+      213: 1816670216296027167
+    second: spritesheet_vehicles_74
+  - first:
+      213: -1484625254911582634
+    second: spritesheet_vehicles_75
+  - first:
+      213: -1115583885764836060
+    second: spritesheet_vehicles_76
+  - first:
+      213: 8869249051261736529
+    second: spritesheet_vehicles_77
+  - first:
+      213: 7555699151682698740
+    second: spritesheet_vehicles_78
+  - first:
+      213: -6837721630718854954
+    second: spritesheet_vehicles_79
+  - first:
+      213: 7910857557429246081
+    second: spritesheet_vehicles_80
+  - first:
+      213: 7054712915918144308
+    second: spritesheet_vehicles_81
+  - first:
+      213: 2902022699732191828
+    second: spritesheet_vehicles_82
+  - first:
+      213: 5887072945542853281
+    second: spritesheet_vehicles_83
+  - first:
+      213: -4780707188381616115
+    second: spritesheet_vehicles_84
+  - first:
+      213: 9209564068335719642
+    second: spritesheet_vehicles_85
+  - first:
+      213: -2651694334574650525
+    second: spritesheet_vehicles_86
+  - first:
+      213: -8318612224318646993
+    second: spritesheet_vehicles_87
+  - first:
+      213: 8370385055854869984
+    second: spritesheet_vehicles_88
+  - first:
+      213: 140329820797037861
+    second: spritesheet_vehicles_89
+  - first:
+      213: 7454743032687675210
+    second: spritesheet_vehicles_90
+  - first:
+      213: 6915397468449334696
+    second: spritesheet_vehicles_91
+  - first:
+      213: 9101774444542881765
+    second: spritesheet_vehicles_92
+  - first:
+      213: -2167172619892177325
+    second: spritesheet_vehicles_93
+  - first:
+      213: 2312086812678847900
+    second: spritesheet_vehicles_94
+  - first:
+      213: -5695433620832052909
+    second: spritesheet_vehicles_95
+  - first:
+      213: 6348783466359906472
+    second: spritesheet_vehicles_96
+  - first:
+      213: 510059871157096074
+    second: spritesheet_vehicles_97
+  - first:
+      213: 8922924333051850295
+    second: spritesheet_vehicles_98
+  - first:
+      213: -131918866428816433
+    second: spritesheet_vehicles_99
+  - first:
+      213: -8777295002619139599
+    second: spritesheet_vehicles_100
+  - first:
+      213: -7122891303631111023
+    second: spritesheet_vehicles_101
+  - first:
+      213: -5574452733621557258
+    second: spritesheet_vehicles_102
+  - first:
+      213: 7936883756454646222
+    second: spritesheet_vehicles_103
+  - first:
+      213: 5493871514480370102
+    second: spritesheet_vehicles_104
+  - first:
+      213: -8561484907076448008
+    second: spritesheet_vehicles_105
+  - first:
+      213: 7852517751685145752
+    second: spritesheet_vehicles_106
+  - first:
+      213: -8393466678069911269
+    second: spritesheet_vehicles_107
+  - first:
+      213: -7676989597788006224
+    second: spritesheet_vehicles_108
+  - first:
+      213: 963744749833735781
+    second: spritesheet_vehicles_109
+  - first:
+      213: -4501014027122908809
+    second: spritesheet_vehicles_110
+  - first:
+      213: -911912893164962403
+    second: spritesheet_vehicles_111
+  - first:
+      213: -5060731133777901674
+    second: spritesheet_vehicles_112
+  - first:
+      213: 3966702003614166813
+    second: spritesheet_vehicles_113
+  - first:
+      213: 1713000567404686556
+    second: spritesheet_vehicles_114
+  - first:
+      213: 2010528907923815868
+    second: spritesheet_vehicles_115
+  - first:
+      213: 1578759127410568477
+    second: spritesheet_vehicles_116
+  - first:
+      213: 3763458849918657120
+    second: spritesheet_vehicles_117
+  - first:
+      213: -7492257336358007671
+    second: spritesheet_vehicles_118
+  - first:
+      213: 4859056457475478190
+    second: spritesheet_vehicles_119
+  - first:
+      213: -7480506558104685406
+    second: spritesheet_vehicles_120
+  - first:
+      213: 7678108691535929009
+    second: spritesheet_vehicles_121
+  - first:
+      213: -4563056997330244049
+    second: spritesheet_vehicles_122
+  - first:
+      213: -1482696280498526521
+    second: spritesheet_vehicles_123
+  - first:
+      213: -4585746468115217265
+    second: spritesheet_vehicles_124
+  - first:
+      213: 2072454385185670811
+    second: spritesheet_vehicles_125
+  - first:
+      213: -3968415168265931979
+    second: spritesheet_vehicles_126
+  - first:
+      213: 6841286140804476148
+    second: spritesheet_vehicles_127
+  - first:
+      213: -4625364270203835604
+    second: spritesheet_vehicles_128
+  - first:
+      213: 4117768577709382625
+    second: spritesheet_vehicles_129
+  - first:
+      213: -2776730137982190930
+    second: spritesheet_vehicles_130
+  - first:
+      213: -6172567645615228728
+    second: spritesheet_vehicles_131
+  - first:
+      213: 4031217375601683134
+    second: spritesheet_vehicles_132
+  - first:
+      213: 303701369269706446
+    second: spritesheet_vehicles_133
+  - first:
+      213: 8162390113163575025
+    second: spritesheet_vehicles_134
+  - first:
+      213: -4852741473324558458
+    second: spritesheet_vehicles_135
+  - first:
+      213: -6468707889235508328
+    second: spritesheet_vehicles_136
+  - first:
+      213: -714964063720928340
+    second: spritesheet_vehicles_137
+  - first:
+      213: -8536688414127958460
+    second: spritesheet_vehicles_138
+  - first:
+      213: 4707138287228369747
+    second: spritesheet_vehicles_139
+  - first:
+      213: -5239934112205539589
+    second: spritesheet_vehicles_140
+  - first:
+      213: 1026803900391008604
+    second: spritesheet_vehicles_141
+  - first:
+      213: 3691819257194627944
+    second: spritesheet_vehicles_142
+  - first:
+      213: -1201924399048954875
+    second: spritesheet_vehicles_143
+  - first:
+      213: -4887595657956483786
+    second: spritesheet_vehicles_144
+  - first:
+      213: 3982362605700842852
+    second: spritesheet_vehicles_145
+  - first:
+      213: -5291806555844029733
+    second: spritesheet_vehicles_146
+  - first:
+      213: -27290686759959199
+    second: spritesheet_vehicles_147
+  - first:
+      213: 7103197749267475749
+    second: spritesheet_vehicles_148
+  - first:
+      213: -5236709920424419585
+    second: spritesheet_vehicles_149
+  - first:
+      213: -3664026040564451073
+    second: spritesheet_vehicles_150
+  - first:
+      213: -4299476944911181834
+    second: spritesheet_vehicles_151
+  - first:
+      213: 2839140267522933627
+    second: spritesheet_vehicles_152
+  - first:
+      213: 7701448525620649285
+    second: spritesheet_vehicles_153
+  - first:
+      213: 5589629530798554420
+    second: spritesheet_vehicles_154
+  - first:
+      213: 1847263029466637687
+    second: spritesheet_vehicles_155
+  - first:
+      213: -3722532659321835328
+    second: spritesheet_vehicles_156
+  - first:
+      213: -5605579433873559660
+    second: spritesheet_vehicles_157
+  - first:
+      213: 1991202662887658387
+    second: spritesheet_vehicles_158
+  - first:
+      213: -7775525801009987763
+    second: spritesheet_vehicles_159
+  - first:
+      213: 435130115491737744
+    second: spritesheet_vehicles_160
+  - first:
+      213: -5378288793017478599
+    second: spritesheet_vehicles_161
+  - first:
+      213: -4261702161640260575
+    second: spritesheet_vehicles_162
+  - first:
+      213: -4099294793623513844
+    second: spritesheet_vehicles_163
+  - first:
+      213: -920467711767305138
+    second: spritesheet_vehicles_164
+  - first:
+      213: 8750582743581256976
+    second: spritesheet_vehicles_165
+  - first:
+      213: -7279542799563786281
+    second: spritesheet_vehicles_166
+  - first:
+      213: -4266928219518402369
+    second: spritesheet_vehicles_167
+  - first:
+      213: -1333955741062368577
+    second: spritesheet_vehicles_168
+  - first:
+      213: -5567954997571112197
+    second: spritesheet_vehicles_169
+  - first:
+      213: 4571935960033714707
+    second: spritesheet_vehicles_170
+  - first:
+      213: 4652561703239597735
+    second: spritesheet_vehicles_171
+  - first:
+      213: -41932452150783479
+    second: spritesheet_vehicles_172
+  - first:
+      213: -3209144461039711002
+    second: spritesheet_vehicles_173
+  - first:
+      213: -707018528819574131
+    second: spritesheet_vehicles_174
+  - first:
+      213: -1378334237149556964
+    second: spritesheet_vehicles_175
+  - first:
+      213: 5697315989686764422
+    second: spritesheet_vehicles_176
+  - first:
+      213: -9116595287295386306
+    second: spritesheet_vehicles_177
+  - first:
+      213: 5455836324820418381
+    second: spritesheet_vehicles_178
+  - first:
+      213: 2371493647136142513
+    second: spritesheet_vehicles_179
+  - first:
+      213: -5904039996427828112
+    second: spritesheet_vehicles_180
+  - first:
+      213: 1928872798124838846
+    second: spritesheet_vehicles_181
+  - first:
+      213: 5343902997891896124
+    second: spritesheet_vehicles_182
+  - first:
+      213: -7337795919192271426
+    second: spritesheet_vehicles_183
+  - first:
+      213: -7477479038393156435
+    second: spritesheet_vehicles_184
+  - first:
+      213: 3538751476231217057
+    second: spritesheet_vehicles_185
+  - first:
+      213: -5400126574678018894
+    second: spritesheet_vehicles_186
+  - first:
+      213: -1310448802269479934
+    second: spritesheet_vehicles_187
+  - first:
+      213: -8536076177313120611
+    second: spritesheet_vehicles_188
+  - first:
+      213: -4031265306632108116
+    second: spritesheet_vehicles_189
+  - first:
+      213: 9133594463495995954
+    second: spritesheet_vehicles_190
+  - first:
+      213: 8801076365711005906
+    second: spritesheet_vehicles_191
+  - first:
+      213: -3806374884517420
+    second: spritesheet_vehicles_192
+  - first:
+      213: 5710713964461179420
+    second: spritesheet_vehicles_193
+  - first:
+      213: 501316724003264029
+    second: spritesheet_vehicles_194
+  - first:
+      213: 6063297324765982709
+    second: spritesheet_vehicles_195
+  - first:
+      213: -4076782024930781950
+    second: spritesheet_vehicles_196
+  - first:
+      213: 4040021230095516874
+    second: spritesheet_vehicles_197
+  - first:
+      213: 2465520758651192855
+    second: spritesheet_vehicles_198
+  - first:
+      213: 7248817586444747819
+    second: spritesheet_vehicles_199
+  - first:
+      213: -2511654818502958894
+    second: spritesheet_vehicles_200
+  - first:
+      213: 169450115725454700
+    second: spritesheet_vehicles_201
+  - first:
+      213: 3160961210055832912
+    second: spritesheet_vehicles_202
+  - first:
+      213: 7422346577381294208
+    second: spritesheet_vehicles_203
+  - first:
+      213: 2918160601763836676
+    second: spritesheet_vehicles_204
+  - first:
+      213: 3344684269402385648
+    second: spritesheet_vehicles_205
+  - first:
+      213: -1486748634901370353
+    second: spritesheet_vehicles_206
+  - first:
+      213: 1941172511066626702
+    second: spritesheet_vehicles_207
+  - first:
+      213: 2252620878787032187
+    second: spritesheet_vehicles_208
+  - first:
+      213: 8053451025285144674
+    second: spritesheet_vehicles_209
+  - first:
+      213: -9016387707051000247
+    second: spritesheet_vehicles_210
+  - first:
+      213: 4329412112572330937
+    second: spritesheet_vehicles_211
+  - first:
+      213: -2158343463758456901
+    second: spritesheet_vehicles_212
+  - first:
+      213: -5319825012649938788
+    second: spritesheet_vehicles_213
+  - first:
+      213: 4827437185466990881
+    second: spritesheet_vehicles_214
+  - first:
+      213: -4940317704585834723
+    second: spritesheet_vehicles_215
+  - first:
+      213: -7163499766607100075
+    second: spritesheet_vehicles_216
+  - first:
+      213: -6859006492343207601
+    second: spritesheet_vehicles_217
+  - first:
+      213: -128779570213022749
+    second: spritesheet_vehicles_218
+  - first:
+      213: -4209759540893905719
+    second: spritesheet_vehicles_219
+  - first:
+      213: -515316158363134707
+    second: spritesheet_vehicles_220
+  - first:
+      213: 9196465582510053287
+    second: spritesheet_vehicles_221
+  - first:
+      213: -9212150546761227638
+    second: spritesheet_vehicles_222
+  - first:
+      213: -7940542549875121905
+    second: spritesheet_vehicles_223
+  - first:
+      213: -7615294637373584623
+    second: spritesheet_vehicles_224
+  - first:
+      213: 2981364716489228839
+    second: spritesheet_vehicles_225
+  - first:
+      213: -7256119040332762531
+    second: spritesheet_vehicles_226
+  - first:
+      213: -6486130883464312925
+    second: spritesheet_vehicles_227
+  - first:
+      213: -5840831571884538375
+    second: spritesheet_vehicles_228
+  - first:
+      213: -6652761287599459180
+    second: spritesheet_vehicles_229
+  - first:
+      213: 2682292108357758980
+    second: spritesheet_vehicles_230
+  - first:
+      213: 857759934953619582
+    second: spritesheet_vehicles_231
+  - first:
+      213: -3414866601660366593
+    second: spritesheet_vehicles_232
+  - first:
+      213: -6713572202541496936
+    second: spritesheet_vehicles_233
+  - first:
+      213: 7754225687961332771
+    second: spritesheet_vehicles_234
+  - first:
+      213: -7278307653478388465
+    second: spritesheet_vehicles_235
+  - first:
+      213: 2060552831515402775
+    second: spritesheet_vehicles_236
+  - first:
+      213: 680434773496116772
+    second: spritesheet_vehicles_237
+  - first:
+      213: 2035074345977424611
+    second: spritesheet_vehicles_238
+  - first:
+      213: 8629340777154092912
+    second: spritesheet_vehicles_239
+  - first:
+      213: 3469404150421047530
+    second: spritesheet_vehicles_240
+  - first:
+      213: -4557374241807223371
+    second: spritesheet_vehicles_241
+  - first:
+      213: -3216579226601627598
+    second: spritesheet_vehicles_242
+  - first:
+      213: -3327903282749037182
+    second: spritesheet_vehicles_243
+  - first:
+      213: -7492224875868708061
+    second: spritesheet_vehicles_244
+  - first:
+      213: 5919829718210992694
+    second: spritesheet_vehicles_245
+  - first:
+      213: 4713769631746168602
+    second: spritesheet_vehicles_246
+  - first:
+      213: -704927359867400859
+    second: spritesheet_vehicles_247
+  - first:
+      213: -1248986577385925763
+    second: spritesheet_vehicles_248
+  - first:
+      213: 6120405396046916644
+    second: spritesheet_vehicles_249
+  - first:
+      213: -7525235430472642573
+    second: spritesheet_vehicles_250
+  - first:
+      213: 3645467150096021672
+    second: spritesheet_vehicles_251
+  - first:
+      213: 8363466900681509777
+    second: spritesheet_vehicles_252
+  - first:
+      213: 5469844843636409767
+    second: spritesheet_vehicles_253
+  - first:
+      213: 6177970317062505678
+    second: spritesheet_vehicles_254
+  - first:
+      213: 419172326343260195
+    second: spritesheet_vehicles_255
+  - first:
+      213: -8385107676288310349
+    second: spritesheet_vehicles_256
+  - first:
+      213: -8285787199282754073
+    second: spritesheet_vehicles_257
+  - first:
+      213: -1875030651200064139
+    second: spritesheet_vehicles_258
+  - first:
+      213: -5403321710855481300
+    second: spritesheet_vehicles_259
+  - first:
+      213: 8014630389840317114
+    second: spritesheet_vehicles_260
+  - first:
+      213: 2739819114764577146
+    second: spritesheet_vehicles_261
+  - first:
+      213: 4201123217521910490
+    second: spritesheet_vehicles_262
+  - first:
+      213: 8406502497228958672
+    second: spritesheet_vehicles_263
+  - first:
+      213: 7780704911703876296
+    second: spritesheet_vehicles_264
+  - first:
+      213: 7785130135894806061
+    second: spritesheet_vehicles_265
+  - first:
+      213: 5105058055163463813
+    second: spritesheet_vehicles_266
+  - first:
+      213: 7981398478087116996
+    second: spritesheet_vehicles_267
+  - first:
+      213: -6736512241271048878
+    second: spritesheet_vehicles_268
+  - first:
+      213: 8376522711030596850
+    second: spritesheet_vehicles_269
+  - first:
+      213: -5575525618595534820
+    second: spritesheet_vehicles_270
+  - first:
+      213: -3071400623471433472
+    second: spritesheet_vehicles_271
+  - first:
+      213: 5852710897099628740
+    second: spritesheet_vehicles_272
+  - first:
+      213: 7782597476209679609
+    second: spritesheet_vehicles_273
+  - first:
+      213: 180642862314385807
+    second: spritesheet_vehicles_274
+  - first:
+      213: -760200813313867293
+    second: spritesheet_vehicles_275
+  - first:
+      213: -6370409158385979317
+    second: spritesheet_vehicles_276
+  - first:
+      213: 1343590344669974451
+    second: spritesheet_vehicles_277
+  - first:
+      213: -849870801018096300
+    second: spritesheet_vehicles_278
+  - first:
+      213: 6805137645476467976
+    second: spritesheet_vehicles_279
+  - first:
+      213: 5351885669878234382
+    second: spritesheet_vehicles_280
+  - first:
+      213: -5047209804115931965
+    second: spritesheet_vehicles_281
+  - first:
+      213: -7321729973174241146
+    second: spritesheet_vehicles_282
+  - first:
+      213: 5786565503430997624
+    second: spritesheet_vehicles_283
+  - first:
+      213: 4026224469214401843
+    second: spritesheet_vehicles_284
+  - first:
+      213: -5214836279625240137
+    second: spritesheet_vehicles_285
+  - first:
+      213: -1150694967945318227
+    second: spritesheet_vehicles_286
+  - first:
+      213: 8271450272600664862
+    second: spritesheet_vehicles_287
+  - first:
+      213: 5684342386434046166
+    second: spritesheet_vehicles_288
+  - first:
+      213: -8765598581756829631
+    second: spritesheet_vehicles_289
+  - first:
+      213: -7542443798331207254
+    second: spritesheet_vehicles_290
+  - first:
+      213: 5125712819840815648
+    second: spritesheet_vehicles_291
+  - first:
+      213: 7188921273583065559
+    second: spritesheet_vehicles_292
+  - first:
+      213: -5901536718648121612
+    second: spritesheet_vehicles_293
+  - first:
+      213: 2201100945163362737
+    second: spritesheet_vehicles_294
+  - first:
+      213: -5176716332621309658
+    second: spritesheet_vehicles_295
+  - first:
+      213: 2659099836257219938
+    second: spritesheet_vehicles_296
+  - first:
+      213: -6832876476103107167
+    second: spritesheet_vehicles_297
+  - first:
+      213: 8049153620107854287
+    second: spritesheet_vehicles_298
+  - first:
+      213: 488936202082114082
+    second: spritesheet_vehicles_299
+  - first:
+      213: 6178609972519448062
+    second: spritesheet_vehicles_300
+  - first:
+      213: -1020782548790499153
+    second: spritesheet_vehicles_301
+  - first:
+      213: 8522603953504399511
+    second: spritesheet_vehicles_302
+  - first:
+      213: 4685252062105039517
+    second: spritesheet_vehicles_303
+  - first:
+      213: 1945796255652622726
+    second: spritesheet_vehicles_304
+  - first:
+      213: 4306062093546031367
+    second: spritesheet_vehicles_305
+  - first:
+      213: -3699089424667779857
+    second: spritesheet_vehicles_306
+  - first:
+      213: 2651620614291572570
+    second: spritesheet_vehicles_307
+  - first:
+      213: 3839752468505884159
+    second: spritesheet_vehicles_308
+  - first:
+      213: -5286096361177789938
+    second: spritesheet_vehicles_309
+  - first:
+      213: 1536714446533964796
+    second: spritesheet_vehicles_310
+  - first:
+      213: 582488449384463667
+    second: spritesheet_vehicles_311
+  - first:
+      213: -8825903115179381185
+    second: spritesheet_vehicles_312
+  - first:
+      213: 6010797513918771760
+    second: spritesheet_vehicles_313
+  - first:
+      213: -5479544690551305108
+    second: spritesheet_vehicles_314
+  - first:
+      213: 1637415945253811932
+    second: spritesheet_vehicles_315
+  - first:
+      213: -5253407435710441817
+    second: spritesheet_vehicles_316
+  - first:
+      213: 1990294084133591781
+    second: spritesheet_vehicles_317
+  - first:
+      213: 4849450983841115516
+    second: spritesheet_vehicles_318
+  - first:
+      213: 4641162655357215871
+    second: spritesheet_vehicles_319
+  - first:
+      213: -3940297247198677123
+    second: spritesheet_vehicles_320
+  - first:
+      213: 3937657730136292322
+    second: spritesheet_vehicles_321
+  - first:
+      213: 6959911894009779270
+    second: spritesheet_vehicles_322
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +1001,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,12 +1010,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,9 +1042,861 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_vehicles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c91f12d24e59490800000000000000
+      internalID: -7740029502072185806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 471
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90030157c0851f420800000000000000
+      internalID: 2662005665279520777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 456
+        width: 68
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d93a614718e46940800000000000000
+      internalID: 5288607049019177433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 458
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa71bf165dd28e7a0800000000000000
+      internalID: -6347773280283584593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 471
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5b1b92ea193c5f0800000000000000
+      internalID: -737585736748780097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 456
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c31471aeb2e92aa0800000000000000
+      internalID: -6185163304836262969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 471
+        width: 44
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a3cda92b6386c0800000000000000
+      internalID: -4142349405497612339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 471
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db44b2e65e05a92d0800000000000000
+      internalID: -3271213233005181763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 70
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920a109d33efcd70800000000000000
+      internalID: 9065714428470231697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 356
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9c9217f04fb8720800000000000000
+      internalID: 2849639536402221479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 323
+        width: 66
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4176166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e858ab66e34ce0800000000000000
+      internalID: -1422039707258656375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 335
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e3217d31f612860800000000000000
+      internalID: 7503400585179315729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 338
+        width: 72
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed631686497b34d60800000000000000
+      internalID: 7873338421608003294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 356
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103a24acd2d2235b0800000000000000
+      internalID: -5390196129318919423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 325
+        width: 69
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308449326cbed7870800000000000000
+      internalID: 8682354892873156611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 356
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d8310d964522f0800000000000000
+      internalID: -998314102248386350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcbba2fec25d4ff0800000000000000
+      internalID: -50292972043125572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 223
+        width: 70
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c8d1d27b1b71c0800000000000000
+      internalID: -4504976822293183522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 203
+        width: 70
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5270687, y: 0.48352343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b7fbdb1802d16b0800000000000000
+      internalID: -5324063442875745390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 192
+        width: 70
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d02064e33ec2cb0800000000000000
+      internalID: -4887281639001813749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 201
+        width: 70
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48947b7e79b2cb130800000000000000
+      internalID: 3583787334907677060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 225
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf1f172f6da55c0800000000000000
+      internalID: -4225828963551675268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 192
+        width: 69
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f3f13582abfa120800000000000000
+      internalID: 2427363406532001630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 241
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab5df8b0517efd90800000000000000
+      internalID: -7062082574155424853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef27ddf9f3a7101f0800000000000000
+      internalID: -1080448021908589826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 110
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6abb98c938bb2560800000000000000
+      internalID: 7290122980147575403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 70
+        width: 66
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70056588f6435e00800000000000000
+      internalID: 1032246772801798268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 70
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feea77f80cfd160e0800000000000000
+      internalID: -2278293918339059985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 74
+        width: 70
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f0140fe8dbbe1f0800000000000000
+      internalID: -1014508869428113567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 89
+        width: 70
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3f7b0f88c70d4e0800000000000000
+      internalID: -1958928910310181909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 92
+        width: 46
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5270687, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aeab0cdfd07f4c0800000000000000
+      internalID: -4253915939516782044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_31
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 92
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1263c7dd627795b80800000000000000
+      internalID: -8405556220701952479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b553b3b0223ff250800000000000000
+      internalID: 5980553946206524850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 11
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3eb4b3ff12699a0800000000000000
+      internalID: -6226752054697925678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 11
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e078373b8377e8e0800000000000000
+      internalID: -1664234495526014745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_35
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 32
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8d2b661a0cd78e0800000000000000
+      internalID: -1693986085376173841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 75
+        width: 61
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2500565b18c588a80800000000000000
+      internalID: -8464413787479015342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 26
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb8d5770c2898fe0800000000000000
+      internalID: -1186273263687464008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_38
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 28
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c92820118135460800000000000000
+      internalID: 7229148288195402862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_vehicles_39
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 20
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fbe1bc90ec1ab10800000000000000
+      internalID: 1991099051732287330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
