@@ -7397,6 +7397,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 10
+  steeringPower: 5
+  steeringAmount: 0
+  speed: 0
+  direction: 0
 --- !u!212 &1163946297
 SpriteRenderer:
   m_ObjectHideFlags: 0
