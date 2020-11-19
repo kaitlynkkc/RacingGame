@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     private Vector2 movementVector;
     private Rigidbody2D rb2d;
 
-    public float movementSpeed;
+    public float movementSpeed = 0;
     public float steeringAmount;
 
     // Start is called before the first frame update
@@ -28,18 +28,34 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         //Vector2 movement = new Vector2(0.0f,);
-       // rb2d.AddForce(movement * movementSpeed);
+        // rb2d.AddForce(movement * movementSpeed);
+        if(movementVector.y == 0)
+        {
+            movementSpeed = 0;
+        }
        if(movementVector.y > 0.0f)
         {
-            rb2d.AddForce(new Vector2(0, movementVector.y));
+            if(movementSpeed < 25)
+            {
+                movementSpeed++;
+            }
+            if(movementSpeed <= 25)
+            {
+                this.transform.Translate(0, (Time.deltaTime * movementSpeed) / 2, 0);
+            }
+        }
+       if(movementVector.y < 0.0f)
+        {
+            movementSpeed--;
+            this.transform.Translate(0,(Time.deltaTime * movementSpeed)/2, 0);
         }
         if (movementVector.x < 0.0f)
         {
-            this.transform.rotation = Quaternion.Euler(new Vector3(0, 0, steeringAmount++));
+            this.transform.rotation = Quaternion.Euler(new Vector3(0, 0, steeringAmount+=3));
         }
         else if (movementVector.x > 0.0f)
         {
-            this.transform.rotation = Quaternion.Euler(new Vector3(0, 0, steeringAmount--));
+            this.transform.rotation = Quaternion.Euler(new Vector3(0, 0, steeringAmount-=3));
         }
         
 
